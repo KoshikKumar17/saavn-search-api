@@ -8,17 +8,17 @@ There are two main types of documentations in this API. One is how to search on 
 
 ### Search
 
-> [All](/docs/search/all.md)
-> [Albums](/docs/search/albums.md)
-> [Artists](/docs/search/artists.md)
-> [Playlists](/docs/search/playlists.md)
+> [All](/docs/search/all.md) <br>
+> [Albums](/docs/search/albums.md) <br>
+> [Artists](/docs/search/artists.md) <br>
+> [Playlists](/docs/search/playlists.md)<br>
 > [Songs](/docs/search/songs.md)
 
 ### Details
 
-> [Albums](/docs/details/albums.md)
-> [Artists](/docs/details/artists.md)
-> [Playlists](/docs/details/playlists.md)
+> [Albums](/docs/details/albums.md) <br>
+> [Artists](/docs/details/artists.md) <br>
+> [Playlists](/docs/details/playlists.md) <br>
 > [Songs](/docs/details/songs.md)
 
 ### Lyrics
