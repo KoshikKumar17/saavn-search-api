@@ -26,9 +26,5 @@ There are two main types of documentations in this API. One is how to search on 
 If you want lyrics in you song, don't take it from here. It will be better to download the app [SongSync](https://github.com/Lambada10/SongSync) for lyrics. It's my personal experience.
 > [Lyrics](/docs/lyrics.md)
 
-### Modules 
-
-It means different types like language, trending, etc.
-> [Modules](/docs/modules.md)
 
 ### That's All For Now, Enjoy!!
