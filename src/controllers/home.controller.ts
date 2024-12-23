@@ -77,7 +77,7 @@ export class HomeController {
                   <a
                     target="_blank"
                     class="bg-white bg-opacity-0 border-b border-white border-opacity-5 relative -ml-px p-8 hover:bg-opacity-[3%] duration-100 group sm:col-span-4"
-                    href="https://docs.saavn.me"
+                    href="/docs/index.md"
                   >
                     <div class="flex flex-col">
                       <span
